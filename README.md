@@ -1,4 +1,4 @@
-1[logo](https://github.com/iamafzal-06/iamafzal-06/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/iamafzal-06/iamafzal-06/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm MD AFZAL</h1>
 <h3 align="center">A passionate Full Stack Developer based in India</h3>
